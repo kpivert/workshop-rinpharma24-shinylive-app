@@ -7,7 +7,7 @@ library(bslib)
 ui <- page_sidebar(
 
   # App title ----
-  title = "Hello Shiny!",
+  title = "Hello Kurtis!",
 
   # Sidebar panel for inputs ----
   sidebar = sidebar(
